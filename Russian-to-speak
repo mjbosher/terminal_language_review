@@ -1,0 +1,14 @@
+R:To speak#говорить
+R:I speak#я говорю
+R:You speak.inf#ты говоришь
+R:He speaks# он говорит
+R:You speak.form#вы говорите
+R:We speak#мы говорим
+R:They speak#они говорят
+говорить#R:To speak
+я говорю#R:I speak
+ты говоришь#R:You speak.inf
+он говорит#R:He speaks
+вы говорите#R:You speak.form
+мы говорим#R:We speak
+они говорят#R:They speak
