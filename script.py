@@ -634,4 +634,4 @@ class CommandLine(Cmd):
 
 
 CommandLine().cmdloop()
-# Next step is to allow code access to sub directories so that there is no need to run this script from each sub directory and so that all errors and scores get added to one place instead of the sub directory equivalent
+#TODO: Next step is to allow code access to sub directories so that there is no need to run this script from each sub directory and so that all errors and scores get added to one place instead of the sub directory equivalent
