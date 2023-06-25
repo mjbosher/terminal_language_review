@@ -3,16 +3,16 @@ A CLI based python script for self-reviewing languages and other subjects of int
 
 Functionality
 -------------
--`toggle_audio` or `toggle_log` toggles audio and logs respectively
--`audio on|off` turns audio on or off
--`log on|off` turns the logging of test stats to a `scores.log` file
--`env` view current environment variables
--`load` takes an optional file argument but by default loads environment from `config.ini`
--`save` optional file but by default saves the current environment to `config.ini`
--`set` sets specific environment variables such as adding to the available language codes.
--`stats` view stats from the `scores.log`
--`ls` view current directory , `ls working_directory` to view working directory as per `env` settings
--`make src_file dest_file` returns the additional inverse of the files content to make a complete test.
+*`toggle_audio` or `toggle_log` toggles audio and logs respectively
+*`audio on|off` turns audio on or off
+*`log on|off` turns the logging of test stats to a `scores.log` file
+*`env` view current environment variables
+*`load` takes an optional file argument but by default loads environment from `config.ini`
+*`save` optional file but by default saves the current environment to `config.ini`
+*`set` sets specific environment variables such as adding to the available language codes.
+*`stats` view stats from the `scores.log`
+*`ls` view current directory , `ls working_directory` to view working directory as per `env` settings
+*`make src_file dest_file` returns the additional inverse of the files content to make a complete test.
 
 source file:```
 Answer#Question
@@ -24,7 +24,7 @@ R:Wine#вино
 Question#Answer
 вино#R:Wine
 ```    
--`exit` exits script
+*`exit` exits script
 
 Set Specific Environment Variables
 ----------------------------------
