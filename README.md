@@ -12,7 +12,7 @@ To run the script:
 python3 script.py
 ```
 
-for help after running the script type `help` or `help [\command\]`
+for help after running the script type `help` or `help _command_`
 
 Installation
 ------------
