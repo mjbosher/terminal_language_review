@@ -7,6 +7,12 @@ Functionality
 Usuage
 ------
 
+To run the script:
+```
+python3 script.py
+```
+
+for help after running the script type `help` or `help [\command\]`
 
 Installation
 ------------
