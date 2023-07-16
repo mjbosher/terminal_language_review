@@ -1,0 +1,6 @@
+black
+pytest
+pytest-cov
+pytest-env
+pytest-mock
+pytest-pythonpath
